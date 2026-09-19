@@ -6,8 +6,6 @@
 
 <!-- Link do YouTube da apresentação do trabalho -->
 
-(COLE\_AQUI\_O\_LINK\_DO\_YOUTUBE)
-
 Chatbot especialista que responde, **sem inventar informações**, a dúvidas sobre dados internos e não públicos de uma campanha fictícia de RPG de mesa, **Sangue no Cais**, ambientada no universo de *Vampiro: A Máscara*, no Domínio de Santos e na Baixada Santista. A arquivista virtual **Serafina** responde a **exatamente 3 perguntas** usando apenas a base de conhecimento do notebook. Depois da 3ª resposta, ela apresenta um breve resumo do que foi respondido e encerra a audiência.
 
 O projeto adapta o notebook *The Chat Format* (OrderBot), feito originalmente para a API da OpenAI, ao **Google Gemini** (`gemini-3.6-flash`), com o SDK Google Gen AI (`google-genai`), a API GenerateContent e a biblioteca Panel na interface.
